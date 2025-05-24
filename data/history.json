@@ -1,0 +1,142 @@
+[
+    {
+        "user_question": "¿qué es la nube?",
+        "bot_response": "La nube es un conjunto de servidores accesibles por Internet que permiten almacenar y procesar datos sin necesidad de tenerlos localmente.",
+        "timestamp": "2025-05-23 21:25:20"
+    },
+    {
+        "user_question": "¿qué es el phishing?",
+        "bot_response": "El phishing es un tipo de ciberataque que busca engañar a las personas para que revelen información personal sensible.",
+        "timestamp": "2025-05-23 21:25:28"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:25:50"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:29:26"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:30:05"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:31:58"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:32:51"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:33:15"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:33:39"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:33:59"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:33:59"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:35:01"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:35:12"
+    },
+    {
+        "user_question": "¿cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 21:35:44"
+    },
+    {
+        "user_question": "¿qué es una vpn?",
+        "bot_response": "Una VPN (Red Privada Virtual) crea una conexión segura y cifrada entre el usuario y la red, protegiendo la privacidad en línea.",
+        "timestamp": "2025-05-23 21:35:49"
+    },
+    {
+        "user_question": "¿qué es una vpn?",
+        "bot_response": "No conozco la respuesta a eso aún.",
+        "timestamp": "2025-05-23 21:48:27"
+    },
+    {
+        "user_question": "¿qué es una vpn?",
+        "bot_response": "No conozco la respuesta a eso aún.",
+        "timestamp": "2025-05-23 21:59:52"
+    },
+    {
+        "user_question": "¿Qué es la nube?",
+        "bot_response": "La nube es un conjunto de servidores accesibles por Internet que permiten almacenar y procesar datos sin necesidad de tenerlos localmente.",
+        "timestamp": "2025-05-23 21:59:56"
+    },
+    {
+        "user_question": "¿Qué es la nube?",
+        "bot_response": "La nube es un conjunto de servidores accesibles por Internet que permiten almacenar y procesar datos sin necesidad de tenerlos localmente.",
+        "timestamp": "2025-05-23 22:00:44"
+    },
+    {
+        "user_question": "¿Qué es el phishing?",
+        "bot_response": "El phishing es un tipo de ciberataque que busca engañar a las personas para que revelen información personal sensible.",
+        "timestamp": "2025-05-23 22:00:48"
+    },
+    {
+        "user_question": "¿Qué es el phishing?",
+        "bot_response": "El phishing es un tipo de ciberataque que busca engañar a las personas para que revelen información personal sensible.",
+        "timestamp": "2025-05-23 22:04:00"
+    },
+    {
+        "user_question": "¿Qué es el phishing?",
+        "bot_response": "El phishing es un tipo de ciberataque que busca engañar a las personas para que revelen información personal sensible.",
+        "timestamp": "2025-05-23 22:07:24"
+    },
+    {
+        "user_question": "¿Qué es una VPN?",
+        "bot_response": "Una VPN (Red Privada Virtual) crea una conexión segura y cifrada entre el usuario y la red, protegiendo la privacidad en línea.",
+        "timestamp": "2025-05-23 22:07:30"
+    },
+    {
+        "user_question": "¿Cómo proteger mi información personal?",
+        "bot_response": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+        "timestamp": "2025-05-23 22:07:38"
+    },
+    {
+        "user_question": "¿Cómo crear una contraseña segura?",
+        "bot_response": "Combina letras mayúsculas, minúsculas, números y símbolos, evitando palabras comunes o datos personales.",
+        "timestamp": "2025-05-23 22:07:43"
+    },
+    {
+        "user_question": "¿Qué es la nube?",
+        "bot_response": "La nube es un conjunto de servidores accesibles por Internet que permiten almacenar y procesar datos sin necesidad de tenerlos localmente.",
+        "timestamp": "2025-05-23 22:08:12"
+    },
+    {
+        "user_question": "¿Qué es una VPN?",
+        "bot_response": "Una VPN (Red Privada Virtual) crea una conexión segura y cifrada entre el usuario y la red, protegiendo la privacidad en línea.",
+        "timestamp": "2025-05-23 22:08:22"
+    },
+    {
+        "user_question": "¿Qué es Python?",
+        "bot_response": "Python es un lenguaje de programación interpretado, fácil de leer y ampliamente usado en ciencia de datos, web y automatización.",
+        "timestamp": "2025-05-23 22:08:33"
+    }
+]

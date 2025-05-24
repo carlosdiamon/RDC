@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduBotPy</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <script>
+    function toggleDarkMode(cb) {
+      document.body.classList.toggle('dark-mode', cb.checked);
+    }
+  </script>
+</head>
+<body>
+  <div class="toggle-switch">
+    <input type="checkbox" id="darkMode" onclick="toggleDarkMode(this)">
+    <label for="darkMode">🌙 Modo oscuro</label>
+  </div>
+
+  <div class="container">
+    <!-- Contenido de texto -->
+    <div class="content">
+      <h1>EduBotPy</h1>
+      <form method="post" class="chat-form">
+        <label for="question">Selecciona una pregunta:</label>
+        <select name="question" id="question" required>
+          <option value="" disabled selected>-- Elige una pregunta --</option>
+          {% for question in questions %}
+            <option value="{{ question }}" {% if selected_question == question %}selected{% endif %}>{{ question }}</option>
+          {% endfor %}
+        </select>
+        <button type="submit">Enviar</button>
+      </form>
+
+      {% if response %}
+        <div class="response-box">
+          <h2>Respuesta:</h2>
+          <p>{{ response }}</p>
+        </div>
+      {% endif %}
+    </div>
+
+    <!-- Contenedor para la imagen -->
+    <div class="image-container">
+      {% if image_url %}
+        <img src="{{ image_url }}" alt="Ilustración relacionada" />
+      {% endif %}
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "¿Qué es la nube?",
+    "answer": "La nube es un conjunto de servidores accesibles por Internet que permiten almacenar y procesar datos sin necesidad de tenerlos localmente.",
+    "image": "cloud.webp"
+  },
+  {
+    "question": "¿Qué es el phishing?",
+    "answer": "El phishing es un tipo de ciberataque que busca engañar a las personas para que revelen información personal sensible.",
+    "image": "phishing.webp"
+  },
+  {
+    "question": "¿Qué es una VPN?",
+    "answer": "Una VPN (Red Privada Virtual) crea una conexión segura y cifrada entre el usuario y la red, protegiendo la privacidad en línea.",
+    "image": "vpn.webp"
+  },
+  {
+    "question": "¿Cómo proteger mi información personal?",
+    "answer": "Utiliza contraseñas seguras, activa la autenticación de dos factores y no compartas tus datos en sitios no confiables.",
+    "image": "protect_info.webp"
+  },
+  {
+    "question": "¿Qué es un chatbot?",
+    "answer": "Un chatbot es un programa que simula una conversación con usuarios mediante inteligencia artificial o reglas predefinidas.",
+    "image": "chatbot.webp"
+  },
+  {
+    "question": "¿Qué es Python?",
+    "answer": "Python es un lenguaje de programación interpretado, fácil de leer y ampliamente usado en ciencia de datos, web y automatización.",
+    "image": "python.webp"
+  },
+  {
+    "question": "¿Qué es un algoritmo?",
+    "answer": "Un algoritmo es una secuencia de pasos lógicos que resuelven un problema o realizan una tarea.",
+    "image": "algorithm.webp"
+  },
+  {
+    "question": "¿Cómo crear una contraseña segura?",
+    "answer": "Combina letras mayúsculas, minúsculas, números y símbolos, evitando palabras comunes o datos personales.",
+    "image": "password.webp"
+  },
+  {
+    "question": "¿Qué es una IP?",
+    "answer": "Una IP (Protocolo de Internet) es una dirección única que identifica un dispositivo en una red.",
+    "image": "ip.webp"
+  },
+  {
+    "question": "¿Qué es la inteligencia artificial?",
+    "answer": "La inteligencia artificial es la simulación de procesos de inteligencia humana por parte de máquinas, como el aprendizaje y la toma de decisiones.",
+    "image": "ai.webp"
+  }
+]
